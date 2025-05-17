@@ -1,2 +1,3 @@
 # Learning-Tracker
-tracking my progress learning Python, SQL, and data analysis skills.
+# Learning-Tracker
+Repository to track my progress transitioning to a data analyst role. Contains weekly logs, code snippets, and notes for Python, SQL, Tableau, and more.
